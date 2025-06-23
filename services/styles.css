@@ -16,3 +16,15 @@
   background-color: rgba(0, 0, 40, 0.6); /* optional dark overlay */
   z-index: -1;
 }
+
+/* Image figure styling for service detail pages */
+.figure img {
+  transition: transform 0.3s ease;
+}
+.figure:hover img {
+  transform: scale(1.03);
+}
+.figcaption {
+  font-size: 0.95rem;
+  color: #555;
+}

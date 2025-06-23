@@ -7,7 +7,7 @@ This is a responsive multi-page website for **JOOP Services & Engineering Works*
 The website includes the following pages:
 - **Home** – Hero banner, company highlights, client testimonials.
 - **About Us** – Company background, mission, vision, values, and overview.
-- **Products** – Overview of key products and solutions.
+- **Projects** – Overview of key Projects and solutions.
 - **Services** – Core engineering services provided by JOOP.
 - **Contact** – Contact form, company email, and social links.
 
@@ -27,7 +27,7 @@ project-root/
 │ └── index.html
 ├── about/
 │ └── index.html
-├── products/
+├── Projects/
 │ └── index.html
 ├── services/
 │ └── index.html
